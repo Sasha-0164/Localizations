@@ -170,39 +170,39 @@ gui.terraria:changeexpert=Эксперт: %s
 gui.terraria:on=ВКЛ
 gui.terraria:off=ВЫКЛ
 
-gui.terraria:new_world/world_size/small.name=§h19EEF7;Small
-gui.terraria:new_world/world_size/medium.name=§h33C394;Medium
-gui.terraria:new_world/world_size/large.name=§h3FB637;Large
-gui.terraria:new_world/modes/creative.name=§hE472AC;Journey
-gui.terraria:new_world/modes/classic.name=§hFFFFFF;Classic
-gui.terraria:new_world/modes/expert.name=§hF0A018;Expert
-gui.terraria:new_world/modes/master.name=§hD42F1F;Master
-gui.terraria:new_world/evil/random.name=Random
-gui.terraria:new_world/evil/corruption.name=§h8262B5;Corruption
-gui.terraria:new_world/evil/crimson.name=§hC65564;Crimson
-gui.terraria:new_world/mcgm/survival.name=Survival
-gui.terraria:new_world/mcgm/creative.name=Creative
-gui.terraria:new_world/cheats/disabled.name=No Cheats
-gui.terraria:new_world/cheats/enabled.name=Cheats
-gui.terraria:new_world/text=Please choose how your world will be built with the options above.
-gui.terraria:new_world/name.randomize=Randomize your world's name.
-gui.terraria:new_world/name=Give your world a name! You can always change it later if needed!
-gui.terraria:new_world/seed.randomize=Randomize your world's seed.
-gui.terraria:new_world/seed=The DNA marker that defines your world's specific shape and traits.
-gui.terraria:new_world/world_size/small=Ideal for a quick, single player experience.
-gui.terraria:new_world/world_size/medium=Bigger and better for prolonged exploration, or bringing a friend.
-gui.terraria:new_world/world_size/large=Super-sized for long term progression and multiple players.
-gui.terraria:new_world/modes/creative=With great power comes great responsibility (Unearth your creativity)
-gui.terraria:new_world/modes/classic=Your adventure begins... (The Standard TerrariaCraft Experience)
-gui.terraria:new_world/modes/expert=Fortune & Glory, Kid. (Far Greater Difficulty & Loot)
-gui.terraria:new_world/modes/master=Game over man, game over! (Brutally hard, for the truly brave)
-gui.terraria:new_world/evil/random=Let nature decide whether corruption or crimson infects your world.
-gui.terraria:new_world/evil/corruption=Disease-like corruption is guaranteed to be present in your world.
-gui.terraria:new_world/evil/crimson=Macabre, grotesque crimson is guaranteed to be present in your world.
-gui.terraria:new_world/mcgm/survival=The intended experience of TerrariaCraft. Mine resources, fight mobs, defeat bosses!
-gui.terraria:new_world/mcgm/creative=Unlimited resources, free flying and destroy blocks instantly with no tools.
-gui.terraria:new_world/cheats/disabled=You can not use any gameplay-altering commands.
-gui.terraria:new_world/cheats/enabled=You have full access to all gameplay-altering commands.
+gui.terraria:new_world/world_size/small.name=§h19EEF7;Маленький
+gui.terraria:new_world/world_size/medium.name=§h33C394;Средний
+gui.terraria:new_world/world_size/large.name=§h3FB637;Большой
+gui.terraria:new_world/modes/creative.name=§hE472AC;Приключение
+gui.terraria:new_world/modes/classic.name=§hFFFFFF;Классика
+gui.terraria:new_world/modes/expert.name=§hF0A018;Эксперт
+gui.terraria:new_world/modes/master.name=§hD42F1F;Мастер
+gui.terraria:new_world/evil/random.name=Случайно
+gui.terraria:new_world/evil/corruption.name=§h8262B5;Порча
+gui.terraria:new_world/evil/crimson.name=§hC65564;Багрянец
+gui.terraria:new_world/mcgm/survival.name=Выживание
+gui.terraria:new_world/mcgm/creative.name=Творческий
+gui.terraria:new_world/cheats/disabled.name=Без читов
+gui.terraria:new_world/cheats/enabled.name=С читами
+gui.terraria:new_world/text=С помощью параметров ниже выберите, как будет создаваться ваш мир.
+gui.terraria:new_world/name.randomize=Выбирает случайное имя для вашего мира.
+gui.terraria:new_world/name=Дайте своему миру имя! Вы можете в любой момент изменить его если вам это будет нужно!
+gui.terraria:new_world/seed.randomize=Выбирает случайный сид для вашего мира.
+gui.terraria:new_world/seed=ДНК-маркер, определяющий форму и особенности вашего мира.
+gui.terraria:new_world/world_size/small=Идеально для быстрого, одиночного прохождения.
+gui.terraria:new_world/world_size/medium=Средний мир лучше подходит для длительного исследования или игры с другом.
+gui.terraria:new_world/world_size/large=Супербольшой мир для длительного развития и игры с несколькими игроками.
+gui.terraria:new_world/modes/creative=Чем больше сила, тем больше и ответственность (Проявите ваше творчество)
+gui.terraria:new_world/modes/classic=Ваше приключение начинается... (Стандартный опыт от игры в TerrariaCraft)
+gui.terraria:new_world/modes/expert=Богатство и слава, малыш. (Более высокая сложность и более ценная добыча)
+gui.terraria:new_world/modes/master=Конец игры, чувак, конец игры! (Крайне сложно, только для истинных храбрецов)
+gui.terraria:new_world/evil/random=Пусть природа решит, что заразит этот мир — порча или багрянец.
+gui.terraria:new_world/evil/corruption=Язвящая порча будет гарантировано представлена в этом мире.
+gui.terraria:new_world/evil/crimson=Жуткий и мерзкий багрянец будет точно представлен в этом мире.
+gui.terraria:new_world/mcgm/survival=Предполагаемый опыт от TerrariaCraft. Добывай ресурсы, сражайся с монстрами, побеждай боссов!
+gui.terraria:new_world/mcgm/creative=Бесконечные ресурсы, свободный полет и мгновенное разрушение блоков без использования инструментов.
+gui.terraria:new_world/cheats/disabled=Вы не можете использовать никаких команд влияющих на игровой процесс.
+gui.terraria:new_world/cheats/enabled=У вас есть доступ ко всем командам существующим в игре.
 
 worldsize.terraria:tiny=Крохотный
 worldsize.terraria:small=Маленький
@@ -221,7 +221,7 @@ jei.terraria.anvil_around=<T>
 jei.terraria.anvil.any=Любая наковальня
 jei.terraria.anvil.mythrilororichalcum=Мифриловая/Орихалковая наковальня
 jei.terraria.table_chair_around=Стол и стул
-jei.terraria.shimmer=Shimmer
+jei.terraria.shimmer=Сияние
 
 mccue.trigger.terraria:crafting.name=Создание
 mccue.trigger.terraria:crafting.if=предмет создан
@@ -443,21 +443,21 @@ item.terraria:artifacts/angler_earring.name=Серьга рыбака
 item.terraria:artifacts/tackle_box.name=Коробочка с рыбацкими снастями
 item.terraria:artifacts/high_test_fishing_line.name=Прочная леска
 item.terraria:artifacts/angler_tackle_bag.name=Сумка рыбака
-item.terraria:artifacts/armor_polish.name=Armor Polish
-item.terraria:artifacts/vitamins.name=Vitamins
-item.terraria:artifacts/armor_bracing.name=Armor Bracing
-item.terraria:artifacts/adhesive_bandage.name=Adhesive Bandage
-item.terraria:artifacts/medicated_bandage.name=Medicated Bandage
-item.terraria:artifacts/trifold_map.name=Trifold Map
-item.terraria:artifacts/fast_clock.name=Fast Clock
-item.terraria:artifacts/the_plan.name=The Plan
-item.terraria:artifacts/nazar.name=Nazar
-item.terraria:artifacts/megaphone.name=Megaphone
-item.terraria:artifacts/countercurse_mantra.name=Countercurse Mantra
-item.terraria:artifacts/ankh_charm.name=Ankh Charm
-item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
-item.terraria:artifacts/reflective_shades.name=Reflective Shades
-item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
+item.terraria:artifacts/armor_polish.name=Полироль
+item.terraria:artifacts/vitamins.name=Витамины
+item.terraria:artifacts/armor_bracing.name=Крепление для брони
+item.terraria:artifacts/adhesive_bandage.name=Лейкопластырь
+item.terraria:artifacts/medicated_bandage.name=Лечебный пластырь
+item.terraria:artifacts/trifold_map.name=Скалдная карта
+item.terraria:artifacts/fast_clock.name=Быстрые часы
+item.terraria:artifacts/the_plan.name=План
+item.terraria:artifacts/nazar.name=Назар
+item.terraria:artifacts/megaphone.name=Мегафон
+item.terraria:artifacts/countercurse_mantra.name=Антисглазная мантра
+item.terraria:artifacts/ankh_charm.name=Амулет анха
+item.terraria:artifacts/pocket_mirror.name=Карманное зеркало
+item.terraria:artifacts/reflective_shades.name=Светоотражающие очки
+item.terraria:artifacts/wings/fledgling.name=Крылья птенца
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -920,11 +920,11 @@ item.terraria:empty_bucket.name=Ведро
 item.terraria:lava_bucket.name=Ведро с лавой
 item.terraria:water_bucket.name=Ведро с водой
 item.terraria:honey_bucket.name=Ведро с медом
-item.terraria:demon_heart.name=Demon Heart
+item.terraria:demon_heart.name=Сердце демона
 
 # Pets
-item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
-item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
+item.terraria:pets/glowing/shadow_orb.name=Сфера тени
+item.terraria:pets/glowing/crimson_heart.name=Багряное сердце
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1785,32 +1785,32 @@ buff.terraria:dryad_blessing.desc=Силы природы защищают ва�
 buff.terraria:battle.name=Бой
 buff.terraria:battle.desc=Увеличена скорость появления врагов
 
-buff.terraria:venom.name=Acid Venom
-buff.terraria:venom.desc=Losing life
+buff.terraria:venom.name=Яд
+buff.terraria:venom.desc=Постепенная потеря здоровья
 
-buff.terraria:broken_armor.name=Broken Armor
-buff.terraria:broken_armor.desc=Defense is cut in half
+buff.terraria:broken_armor.name=Сломанная броня
+buff.terraria:broken_armor.desc=Защита снижена вдвое
 
-buff.terraria:weak.name=Weak
-buff.terraria:weak.desc=Physical abilities are decreased
+buff.terraria:weak.name=Слабость
+buff.terraria:weak.desc=Физические способности снижены
 
-buff.terraria:bleeding.name=Bleeding
-buff.terraria:bleeding.desc=Cannot regenerate life
+buff.terraria:bleeding.name=Кровотечение
+buff.terraria:bleeding.desc=Вы утратили способность к регенерации
 
-buff.terraria:confused.name=Confused
-buff.terraria:confused.desc=Movement is reversed
+buff.terraria:confused.name=Запутанность
+buff.terraria:confused.desc=Движение не в ту сторону
 
-buff.terraria:slow.name=Slow
-buff.terraria:slow.desc=Movement speed is reduced
+buff.terraria:slow.name=Замедление
+buff.terraria:slow.desc=Скорость движения уменьшена
 
-buff.terraria:silenced.name=Silenced
-buff.terraria:silenced.desc=Cannot use items that require mana
+buff.terraria:silenced.name=Безмолвие
+buff.terraria:silenced.desc=Невозможно использовать предметы потребляющие ману
 
-buff.terraria:cursed.name=Cursed
-buff.terraria:cursed.desc=Cannot use any items
+buff.terraria:cursed.name=Проклятие
+buff.terraria:cursed.desc=Нельзя использовать предметы
 
-buff.terraria:stoned.name=Stoned
-buff.terraria:stoned.desc=You are completely petrified!
+buff.terraria:stoned.name=Окаменелый
+buff.terraria:stoned.desc=Вы полностью окаменели!
 
 #################
 
@@ -1829,7 +1829,7 @@ tooltip.terraria:uses_mana=Использует %s ед. маны
 tooltip.terraria:restores_life=Восстанавливает %s ед. здоровья
 tooltip.terraria:restores_mana=Восстанавливает %s ед. маны
 tooltip.terraria:potion_duration=Длительность: %s мин.
-tooltip.terraria:potion_duration_s=Duration: %s sec
+tooltip.terraria:potion_duration_s=Длительность: %s сек.
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
 tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
 tooltip.terraria:placeable.key=Можно установить пока нажата клавиша %s
@@ -1894,20 +1894,20 @@ tooltip.terraria:artifacts/philosopher_stone=Уменьшает время во�
 tooltip.terraria:artifacts/angler_earring=Увеличивает мастерство рыбалки
 tooltip.terraria:artifacts/tackle_box=Уменьшает вероятность использования наживки
 tooltip.terraria:artifacts/high_test_fishing_line=Леска никогда не порвётся
-tooltip.terraria:artifacts/armor_polish=Immunity to Broken Armor
-tooltip.terraria:artifacts/vitamins=Immunity to Weakness
-tooltip.terraria:artifacts/armor_bracing=Immunity to Weakness and Broken Armor
-tooltip.terraria:artifacts/adhesive_bandage=Immunity to Bleeding
-tooltip.terraria:artifacts/medicated_bandage=Immunity to Poison and Bleeding
-tooltip.terraria:artifacts/trifold_map=Immunity to Confusion
-tooltip.terraria:artifacts/fast_clock=Immunity to Slow
-tooltip.terraria:artifacts/the_plan=Immunity to Slow and Confusion
-tooltip.terraria:artifacts/nazar=Immunity to Curse
-tooltip.terraria:artifacts/megaphone=Immunity to Silence
-tooltip.terraria:artifacts/countercurse_mantra=Immunity to Silence and Curse
-tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
-tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
-tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
+tooltip.terraria:artifacts/armor_polish=Невосприимчивость к сломанной броне
+tooltip.terraria:artifacts/vitamins=Невосприимчивость к ослаблению
+tooltip.terraria:artifacts/armor_bracing=Невосприимчивость к ослаблению и сломанной броне
+tooltip.terraria:artifacts/adhesive_bandage=Невосприимчивость к кровотечению
+tooltip.terraria:artifacts/medicated_bandage=Невосприимчивость к яду и кровотечению
+tooltip.terraria:artifacts/trifold_map=Невосприимчивость к запутанности
+tooltip.terraria:artifacts/fast_clock=Невосприимчивость к замедлению
+tooltip.terraria:artifacts/the_plan=Невосприимчивость к замедлению и запутанности
+tooltip.terraria:artifacts/nazar=Невосприимчивость к проклятию
+tooltip.terraria:artifacts/megaphone=Невосприимчивость к безмолвию
+tooltip.terraria:artifacts/countercurse_mantra=Невосприимчивость к безмолвию и проклятию
+tooltip.terraria:artifacts/ankh_charm=Дает невосприимчивость к большинству ослаблений 
+tooltip.terraria:artifacts/pocket_mirror=Невосприимчивость окаменению
+tooltip.terraria:artifacts/reflective_shades=Невосприимчивость к тьме и окаменению
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -2058,7 +2058,7 @@ tooltip.terraria:food/grape_juice='Сладкий. Жидкий. Фиолето�
 tooltip.terraria:food/monster_lasagna='На вкус как мясо с лапшой и волосами'
 tooltip.terraria:food/roasted_duck='Всё лучше, чем курица со стены'
 tooltip.terraria:food/pumpkin_pie='Съешь все за один присест!'
-tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
+tooltip.terraria:demon_heart=Навсегда увеличивает количество ячеек аксессуаров
 
 # Misc Tooltips
 
@@ -2258,8 +2258,8 @@ chat.terraria:npc.move_in=%s появился!
 chat.terraria:boss_tiles/shadow_orb.1=Леденящий ужас спускается по твоему позвоночнику...
 chat.terraria:boss_tiles/shadow_orb.2=Вокруг тебя разносится эхо криков...
 
-chat.terraria:boss_tiles/crimson_heart.1=A horrible chill goes down your spine...
-chat.terraria:boss_tiles/crimson_heart.2=Screams echo around you...
+chat.terraria:boss_tiles/crimson_heart.1=Мурашки проходят по вашей спине...
+chat.terraria:boss_tiles/crimson_heart.2=Вы слышите повсюду эхо криков...
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!
@@ -2272,12 +2272,12 @@ house.terraria:ok=Этот дом подходит.
 house.terraria:npc_home_pos=Дом %s находится в %s.
 house.terraria:npc_not_found=%s не найден в мире.
 house.terraria:npc_has_no_home=%s не имеет дома.
-house.terraria:npc_already_here=%s already lives here.
-house.terraria:npc_kicked=%s was kicked from house %s.
-house.terraria:npc_moved=%s was moved into house %s.
-house.terraria:show_location=Show location
-house.terraria:move_here=Move Here
-house.terraria:query=Query house
+house.terraria:npc_already_here=%s уже живет тут.
+house.terraria:npc_kicked=%s был выгнан из дома %s.
+house.terraria:npc_moved=%s был перемещен в дом %s.
+house.terraria:show_location=Показать расположение
+house.terraria:move_here=Переместить сюда
+house.terraria:query=Запосить дом
 
 gui.terraria:buy=Купить за
 gui.terraria:sell=Продать за
@@ -2860,19 +2860,30 @@ npc.terraria:witch_doctor.happiness.neutral=Я — олицетворение с
 ## If the first letter of whatever's in {} is uppercase, then the first letter of the resulting word will be also uppercase
 ## If the first letter of whatever's in {} is lowercase, then the first letter of the resulting word will be also lowercase
 ############################
-new_world.terraria:composition.0=The {Adjective} {Location} of {Noun}
-new_world.terraria:composition.1=The {Adjective} {Location} of {Noun}
-new_world.terraria:composition.2={Adjective} {Location} of {Noun}
-new_world.terraria:composition.3={Adjective} {Location} of {Noun}
-new_world.terraria:composition.4=The {Adjective} {Location}
-new_world.terraria:composition.5={Adjective} {Location}
-new_world.terraria:composition.6=The {Location} of {Noun}
-new_world.terraria:composition.7={Location} of {Noun}
+new_world.terraria:composition.0={Adjective} {Location} {Noun}
+new_world.terraria:composition.1={Adjective1} {Location} {Noun}
+new_world.terraria:composition.2={Adjective2} {Location} {Noun}
+new_world.terraria:composition.3={Adjective} {Location}
+new_world.terraria:composition.4={Adjective1} {Location}
+new_world.terraria:composition.5={Adjective2} {Location}
+new_world.terraria:composition.6={Location} {Noun}
+new_world.terraria:composition.7={Location} {Noun}
 
-new_world.terraria:adjective.0=Silly
-new_world.terraria:adjective.1=Easy
-new_world.terraria:adjective.2=Zealous
-new_world.terraria:adjective.3=Raw
+## adjective - мужской
+## adjective1 - женский
+## adjective2 - средний
+new_world.terraria:adjective.0=Глупый
+new_world.terraria:adjective1.0=Глупая
+new_world.terraria:adjective2.0=Глупое
+new_world.terraria:adjective.1=Легкий
+new_world.terraria:adjective1.1=Легкая
+new_world.terraria:adjective2.1=Легкое
+new_world.terraria:adjective.2=Усердный
+new_world.terraria:adjective1.2=Усердная
+new_world.terraria:adjective2.2=Усердное
+new_world.terraria:adjective.3=Сырой
+new_world.terraria:adjective1.3=Сырая
+new_world.terraria:adjective2.3=Сырое
 new_world.terraria:adjective.4=Hurtful
 new_world.terraria:adjective.5=Black
 new_world.terraria:adjective.6=Bright
